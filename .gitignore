@@ -28,7 +28,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-!**/src/main/resources/**/node_modules/
+src/main/resources/frontend/node_modules/
 /src/main/resources/frontend/node
 
 ### STS ###
